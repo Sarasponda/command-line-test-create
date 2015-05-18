@@ -1,0 +1,1 @@
+"git-it verify" isn't working but let's see if I can work past that. I'm creating a file for 
